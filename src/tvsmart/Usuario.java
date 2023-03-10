@@ -11,6 +11,7 @@ SmartTv smartTv = new SmartTv();
 		smartTv.diminuirVolume();
 		smartTv.diminuirVolume();
 		smartTv.aumentarVolume();
+		smartTv.aumentarVolume();
 		
 		System.out.println("Canal Atual: " + smartTv.canal );
 		
